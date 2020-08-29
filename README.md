@@ -4,7 +4,10 @@
 ## Getting started
 
 This document will provide information about what is needed to have installed for the Flask course.
- 
+Overall we will need:
+- an IDE
+- Python (preferrably 3.3+) and Flask  
+- Postman
 
 ### IDE
 
@@ -95,5 +98,9 @@ As mentioned earlier, Flask is a microframework. When we want to add extra funct
 
 List of available Flask extensions can be found [here](https://pypi.org/search/?c=Framework+%3A%3A+Flask).
 
+
+### Postman
+
+Postman is a tool that allows us to test our APIs. You can find it [here](https://www.postman.com/downloads/) to download it.
 
 
