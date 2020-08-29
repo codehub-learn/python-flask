@@ -1,7 +1,10 @@
 # Flask
 
 
-## Getting started guidelines
+## Getting started
+
+This document will provide information about what is needed to have installed for the Flask course.
+ 
 
 ### IDE
 
