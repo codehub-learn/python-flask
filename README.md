@@ -47,7 +47,7 @@ If any of those does not work please check their installation options:
 You can install Flask as any other python package. 
 
 ```cmd
-$ pip install Flask
+$ pip install flask
 ```
 
 Flask, as the vast majority of the external modules/libraries/frameworks that we will install in our environment, depends on some other modules. When we install Flask we will also install a list of other modules including but not limited to [Jinja](https://palletsprojects.com/p/jinja/) (template language) and [Werkzeug](https://palletsprojects.com/p/werkzeug/) (Python interface between applications and servers).
